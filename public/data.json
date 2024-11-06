@@ -1,0 +1,223 @@
+[
+  {
+    "product_id": "101",
+    "product_title": "Smartphone Pro Max",
+    "product_image": "https://i.ibb.co.com/Pryk353/phone.jpg " ,
+    "category": "Mobile Phones",
+    "price": 999.99,
+    "description": "Flagship smartphone with a 6.7-inch OLED display and triple-lens camera system.",
+    "Specification": [
+      "6.7-inch OLED display",
+      "Triple-lens rear camera",
+      "128GB storage",
+      "5G enabled",
+      "Face ID technology"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "102",
+    "product_title": "Smartphone Lite",
+    "product_image": "https://i.ibb.co.com/Pryk353/phone.jpg" ,
+    "category": "Mobile Phones",
+    "price": 499.99,
+    "description": "Budget smartphone with excellent camera performance and long battery life.",
+    "Specification": [
+      "6.1-inch LCD display",
+      "Dual-lens camera",
+      "64GB storage",
+      "4G LTE",
+      "Fingerprint sensor"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "103",
+    "product_title": "Smartphone Ultra",
+    "product_image": "https://i.ibb.co.com/Pryk353/phone.jpg" ,
+    "category": "Mobile Phones",
+    "price": 1199.99,
+    "description": "High-end smartphone with a 120Hz display, advanced camera, and fast processing.",
+    "Specification": [
+      "6.8-inch AMOLED display",
+      "Quad-lens rear camera",
+      "256GB storage",
+      "5G enabled",
+      "Face ID and fingerprint sensor"
+    ],
+    "availability": false,
+    "rating": 4.9
+  },
+  {
+    "product_id": "104",
+    "product_title": "Gaming Laptop Alpha",
+    "product_image":"https://i.ibb.co.com/S0XQy3B/laptop.jpg"  ,
+    "category": "Computers",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with advanced graphics and smooth gameplay.",
+    "Specification": [
+      "15.6-inch Full HD display",
+      "Intel Core i7 processor",
+      "NVIDIA GeForce RTX 3060",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "105",
+    "product_title": "Gaming Laptop Pro",
+    "product_image": "https://i.ibb.co.com/S0XQy3B/laptop.jpg"   ,
+    "category": "Computers",
+    "price": 1499.99,
+    "description": "Top-tier gaming laptop with a powerful GPU and customizable RGB lighting.",
+    "Specification": [
+      "17.3-inch Full HD display",
+      "AMD Ryzen 9 processor",
+      "NVIDIA GeForce RTX 3070",
+      "32GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "106",
+    "product_title": "Gaming Laptop Xtreme",
+    "product_image": "https://i.ibb.co.com/S0XQy3B/laptop.jpg" ,
+    "category": "Computers",
+    "price": 1999.99,
+    "description": "Extreme gaming laptop with the highest specs for demanding games.",
+    "Specification": [
+      "15.6-inch 4K display",
+      "Intel Core i9 processor",
+      "NVIDIA GeForce RTX 4090",
+      "64GB RAM",
+      "2TB SSD"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "107",
+    "product_title": "Smartwatch Series 7",
+    "product_image": "https://i.ibb.co.com/m5nTPxn/watch.jpg" ,
+    "category": "Wearables",
+    "price": 399.99,
+    "description": "The latest smartwatch with health monitoring, fitness tracking, and water resistance.",
+    "Specification": [
+      "1.8-inch OLED display",
+      "Heart rate and blood oxygen monitoring",
+      "GPS tracking",
+      "Water-resistant up to 50 meters",
+      "Up to 18 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "108",
+    "product_title": "Smartwatch Pro",
+    "product_image": "https://i.ibb.co.com/m5nTPxn/watch.jpg" ,
+    "category": "Wearables",
+    "price": 299.99,
+    "description": "Premium smartwatch with customizable watch faces and advanced health metrics.",
+    "Specification": [
+      "1.5-inch AMOLED display",
+      "Sleep and heart rate tracking",
+      "Built-in GPS",
+      "Water-resistant",
+      "Up to 24 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "109",
+    "product_title": "Fitness Smartwatch Lite",
+    "product_image": "https://i.ibb.co.com/m5nTPxn/watch.jpg" ,
+    "category": "Wearables",
+    "price": 199.99,
+    "description": "Affordable smartwatch with essential fitness and health tracking features.",
+    "Specification": [
+      "1.4-inch LCD display",
+      "Step and heart rate tracking",
+      "Water-resistant",
+      "Sleep tracking",
+      "5-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "110",
+    "product_title": "4K Drone Explorer",
+    "product_image":"https://i.ibb.co.com/F4yrpSx/drone.jpg" ,
+    "category": "Drones",
+    "price": 499.99,
+    "description": "High-performance drone with 4K camera, GPS, and obstacle avoidance system.",
+    "Specification": [
+      "4K camera with gimbal",
+      "GPS-assisted flight",
+      "Obstacle avoidance",
+      "30-minute flight time",
+      "Foldable design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "111",
+    "product_title": "Drone Pro Vision",
+    "product_image": "https://i.ibb.co.com/F4yrpSx/drone.jpg" ,
+    "category": "Drones",
+    "price": 799.99,
+    "description": "Professional drone with high-resolution camera and long battery life.",
+    "Specification": [
+      "5K camera",
+      "Advanced obstacle avoidance",
+      "45-minute flight time",
+      "Live streaming capability",
+      "Foldable and portable design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "112",
+    "product_title": "Mini Drone Starter",
+    "product_image": "https://i.ibb.co.com/F4yrpSx/drone.jpg" ,
+    "category": "Drones",
+    "price": 199.99,
+    "description": "Compact drone for beginners with HD camera and stable flight controls.",
+    "Specification": [
+      "HD camera",
+      "Easy-to-use controls",
+      "20-minute flight time",
+      "Altitude hold mode",
+      "Portable design"
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": "113",
+    "product_title": "Advanced 4K Drone",
+    "product_image":"https://i.ibb.co.com/F4yrpSx/drone.jpg" ,
+    "category": "Drones",
+    "price": 999.99,
+    "description": "High-end 4K drone with AI-assisted flight modes and enhanced GPS.",
+    "Specification": [
+      "4K Ultra HD camera",
+      "AI flight modes",
+      "Advanced GPS system",
+      "35-minute flight time",
+      "Obstacle detection"
+    ],
+    "availability": false,
+    "rating": 4.8
+  }
+]
